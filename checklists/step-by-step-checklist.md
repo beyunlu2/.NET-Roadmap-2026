@@ -3,7 +3,7 @@
 Use this checklist to track your progress. Don't move to Step 2 until everything is checked.
 
 ## C# Fundamentals
-- [ ] I can create classes with properties and methods
+- [x] I can create classes with properties and methods
 - [ ] I understand interfaces and why they exist
 - [ ] I can use async/await and know why it matters
 - [ ] I can write LINQ queries (Where, Select, FirstOrDefault, Any)
